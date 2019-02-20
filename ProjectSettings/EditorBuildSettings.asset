@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FPS.unity
     guid: 2e348146097567844a0a9461138c85eb
+  - enabled: 1
+    path: Assets/Scenes/CarStunt.unity
+    guid: 5691058afe9acd743bc84cf99ca019ee
   m_configObjects: {}

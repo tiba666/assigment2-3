@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Enermy
   - Bullet
+  - Text
+  - MainCanvas
+  - tier
   layers:
   - Default
   - TransparentFX
